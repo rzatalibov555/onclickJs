@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+}
+
+div{
+    width: 150px;
+    height: 150px;
+    background: red;
+    float: left;
+}
